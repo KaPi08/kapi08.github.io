@@ -7,3 +7,5 @@ nicht sprechen, sondern kommuniziert über Zeichen, die auf ihrem Panzer erschei
 * zuverlässig
 * klug
 * hilfsbereit
+
+> Wenn Kassiopeia es vorauswusste, dann musste es wohl auch so sein.
